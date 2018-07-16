@@ -1,0 +1,22 @@
+{
+  "name": "jswebpack",
+  "description": "client side dependencies using webjars",
+  "main": "dist/js/addition.js",
+  "keywords": [
+    "adding",
+    "two",
+    "numbers"
+  ],
+  "authors": [
+    "ravikiran"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vravikiran/jswebpack.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
